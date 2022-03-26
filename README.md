@@ -9,13 +9,19 @@ Steve required an upgrade from the initial code spanning a single worksheet to o
 
 ### Analysis of Project
 The initial run of the code prior to refactoring had moderate speeds for both the 2017 and 2018 worksheet. The declaration of the worksheet in the opening statement made the code hard to manage as one would have to manually create multiple modules to effectively run an analysis for a different year, or risk re-coding the module any time a different year needed to be chosen.
+
 ![Example of Declared Worksheet Prior to Refactored Code](<./resources/specified_year_coding_example.png>)
+
 ![2017 Results Prior to Refactored Code](<./resources/prefactor_VBA_Challenge_2017.png>)
+
 ![2018 Results Prior to Refactored Code](<./resources/prefactor_VBA_Challenge_2018.png>)
 
 After refactoring, we saw a decrease in the elapsed run time for the code on either worksheet desired. The fluidity Steve required in selection of worksheets was enhanced by assigning an input variable rather than selective coding. 
+
 ![Example of Input Variable](<./resources/input_variable_coding.png>)
+
 ![2017 Results - Refactored](<./resources/VBA_Challenge_2017.png>)
+
 ![2018 Results - Refactored](<./resources/VBA_Challenge_2018.png>)
 
 
