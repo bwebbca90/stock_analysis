@@ -27,8 +27,8 @@ After refactoring, we saw a decrease in the elapsed run time for the code on eit
 
 ## Advantages and Disadvantages of Refactoring Code
 
-- The Advantages of Refactoring Code
+- The Advantages of Refactoring Code:
 An advantage in refactoring code is that you do not have to work from scratch and create a solution for a complex issue that may exist outside of your skillset. It is significantly faster to refactor, "stand on the shoulders of giants" as it were, and cite your sources rather than dedicate time you may not have available to researching in order to return a deliverable that meets industry standard and the user specifications. 
 
-- The Disadvantages of Refactoring Code
+- The Disadvantages of Refactoring Code:
 A significant disadvantage in refactoring code is that every user will write their code differently. If a code snipped is poorly commented, you may see a piece of code as ill-advised and remove it as there is no documentation stating what this code will affect down the line, resulting in errors. You can also be required to refactor code outside of your scope and abilities, or simply within an outdated and ineffective program. 
